@@ -1,0 +1,21 @@
+{
+  "wp_weight": {
+    "data": [
+      {
+        "id" : 1,
+        "short_name": "INNEN", 
+        "wp_list": [1500, 500, 3000, null, null, null, null, null, null, null, null, null] 
+      },
+      {
+        "id" : 2,
+        "short_name": "CITECH", 
+        "wp_list": [6000, null, null, null, null, null, null, null, null, null, null, 1200] 
+      },
+      {
+        "id" : 3,
+        "short_name": "CBENT", 
+        "wp_list": [null, 3000, null, null, null, null, null, 1500, 5000, null, null, null] 
+      }
+    ]
+  }
+}
