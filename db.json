@@ -17,5 +17,78 @@
         "wp_list": [null, 3000, null, null, null, null, null, 1500, 5000, null, null, null] 
       }
     ]
+  },
+  "costs_wp": {
+    "data": [
+      {
+        "id" : 1,
+        "short_name": "INNEN", 
+        "status": 1, 
+        "tot_pm": 4.0,
+        "direct_cost_pers": 7000,
+        "direct_cost_subcontr": 500,
+        "travel_subsistance": 500,
+        "eqipment": 500,
+        "other_goods_works_serv": 500,
+        "other_cost_categ": 500,
+        "intern_invoiced": 500,
+        "indirect_costs": 800,
+        "tot_elig_costs": 500,
+        "tot_est_proj_costs": 500,
+        "tot_req_eu_contr": 1500,
+        "inc_by_act": 500,
+        "fin_contr": 500,
+        "own_resources": 500,
+        "tot_est_income": 1000,
+        "other_costs_percnt": 500,
+        "tot_est_inc_vs_costs": null
+      },
+      {
+        "id" : 2,
+        "short_name": "CITECH", 
+        "status": 2, 
+        "tot_pm": 4.0,
+        "direct_cost_pers": 6000,
+        "direct_cost_subcontr": 500,
+        "travel_subsistance": 500,
+        "eqipment": 500,
+        "other_goods_works_serv": 500,
+        "other_cost_categ": 500,
+        "intern_invoiced": 500,
+        "indirect_costs": 700,
+        "tot_elig_costs": 900,
+        "tot_est_proj_costs": 1500,
+        "tot_req_eu_contr": 500,
+        "inc_by_act": 500,
+        "fin_contr": 500,
+        "own_resources": 1000,
+        "tot_est_income": 500,
+        "other_costs_percnt": 500,
+        "tot_est_inc_vs_costs": null
+      },
+      {
+        "id" : 3,
+        "short_name": "CBENT", 
+        "status": 3, 
+        "tot_pm": 6.0,
+        "direct_cost_pers": 8000,
+        "direct_cost_subcontr": 500,
+        "travel_subsistance": 1500,
+        "eqipment": 500,
+        "other_goods_works_serv": 500,
+        "other_cost_categ": 500,
+        "intern_invoiced": 600,
+        "indirect_costs": 500,
+        "tot_elig_costs": 800,
+        "tot_est_proj_costs": 500,
+        "tot_req_eu_contr": 500,
+        "inc_by_act": 1500,
+        "fin_contr": 500,
+        "own_resources": 1000,
+        "tot_est_income": 500,
+        "other_costs_percnt": 500,
+        "tot_est_inc_vs_costs": null
+      }
+    ]
   }
 }
