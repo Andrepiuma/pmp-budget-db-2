@@ -18,9 +18,27 @@
       }
     ]
   },
+  "work_package": [
+    {
+      "id" : 1,
+      "num" : 1,
+      "title": "WP Title 1"
+    },
+    {
+      "id" : 2,
+      "num" : 2,
+      "title": "WP Title 2"
+    },
+    {
+      "id" : 3,
+      "num" : 3,
+      "title": "WP Title 3"
+    }
+  ],
   "costs_wp": [
     {
       "id" : 1,
+      "wp_num" : 1,
       "short_name": "INNEN", 
       "status": 1, 
       "tot_pm": 1.0,
@@ -39,6 +57,7 @@
     },
     {
       "id" : 2,
+      "wp_num" : 1,
       "short_name": "CITECH", 
       "status": 2, 
       "tot_pm": 4.0,
@@ -57,6 +76,7 @@
     },
     {
       "id" : 3,
+      "wp_num" : 1,
       "short_name": "CBENT", 
       "status": 3, 
       "tot_pm": null,
