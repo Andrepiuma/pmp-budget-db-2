@@ -155,17 +155,12 @@
     {
       "id" : 1,
       "num" : 1,
-      "title": "WP Title 1"
+      "short_name": "INNEN"
     },
     {
       "id" : 2,
       "num" : 2,
-      "title": "WP Title 2"
-    },
-    {
-      "id" : 3,
-      "num" : 3,
-      "title": "WP Title 3"
+      "short_name": "CITECH"
     }
   ],
   "costs_justif": [
