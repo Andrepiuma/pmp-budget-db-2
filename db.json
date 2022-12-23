@@ -167,7 +167,7 @@
     {
       "id" : 1,
       "partn_num" : 1,
-      "cost_type": "subcontracting", 
+      "cost_type": "subcontr", 
       "costs": 2000, 
       "other_cost_justif": null
     },
