@@ -181,7 +181,7 @@
     {
       "id" : 3,
       "partn_num" : 1,
-      "cost_type": "equipments", 
+      "cost_type": "equip_depr", 
       "costs": 500, 
       "other_cost_justif": null
     },
@@ -202,7 +202,7 @@
     {
       "id" : 6,
       "partn_num" : 2,
-      "cost_type": "subcontracting", 
+      "cost_type": "subcontr", 
       "costs": null, 
       "other_cost_justif": null
     },
@@ -216,7 +216,7 @@
     {
       "id" : 8,
       "partn_num" : 2,
-      "cost_type": "equipments", 
+      "cost_type": "equip_depr", 
       "costs": 900, 
       "other_cost_justif": null
     },
