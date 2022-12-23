@@ -156,12 +156,14 @@
       "id" : 1,
       "num" : 1,
       "short_name": "INNEN",
+      "status": 3, 
       "alert": null
     },
     {
       "id" : 2,
       "num" : 2,
       "short_name": "CITECH",
+      "status": 1, 
       "alert": "more than 15% of Personnel costs"
     }
   ],
